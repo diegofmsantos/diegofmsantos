@@ -16,6 +16,6 @@
 <img align="center" alt="javascript" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div></br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegofmsantos)](https://github.com/diegofmsantos/github-readme-stats)
+[![Top Langs](ttps://github-readme-stats.vercel.app/api/top-langs/?username={diegofmsantos}&theme=blue-green)
 
 ## Contato: diegofmsantos0@gmail.com
